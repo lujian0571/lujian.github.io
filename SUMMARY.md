@@ -2,8 +2,8 @@
 
 * [ABOUT](README.md)
 * [IT](chapter1.md)
-  * centos
-  * mac
+  * [centos](chapter1/centos.md)
+  * [mac](chapter1/mac.md)
   * docker
   * shell
   * html
